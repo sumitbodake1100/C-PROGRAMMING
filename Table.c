@@ -1,5 +1,7 @@
-/*Name- Prathmesh Giridhar Panchlinge
-PRN No- 2503033111372018 */
+/*NAME:SUMIT BODAKE
+PRN:2503033111372L005
+BRANCH:EXTC(R)*/
+
 #include <stdio.h>
 int main(){
     int i,table,num;
